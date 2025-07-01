@@ -42,7 +42,7 @@ android {
 
 dependencies {
     implementation("androidx.appcompat:appcompat:1.7.0")
-    implementation("com.github.Stericson:RootShell:1.6")
+    implementation("com.github.naveensingh:RootShell:bc7e5d398e")
 }
 
 publishing.publications {
